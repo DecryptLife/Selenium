@@ -8,7 +8,7 @@
 
 ### Fetching elements from websites
 
-This part we are fetching information from [amazon website][https://www.amazon.com/s?i=fashion-mens&bbn=23610279011&rh=n%3A7141123011%2Cn%3A23610279011%2Cn%3A7147441011%2Cn%3A1040658%2Cn%3A1045558&s=exact-aware-popularity-rank&ref=s9_bw_cg_SBPWINDT_4d1_w]
+This part we are fetching information from [amazon website](https://www.amazon.com/s?i=fashion-mens&bbn=23610279011&rh=n%3A7141123011%2Cn%3A23610279011%2Cn%3A7147441011%2Cn%3A1040658%2Cn%3A1045558&s=exact-aware-popularity-rank&ref=s9_bw_cg_SBPWINDT_4d1_w)
 
 Displaying each item's title,price, image and product link
 
